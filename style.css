@@ -1,0 +1,191 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.jumbo {
+  background-image: url("sharkswim.gif");
+  background-size: cover;
+  width: 100%;
+ border: 50px;
+  border-style: inset;
+  border-color: #000f85;
+}
+.hone {
+  text-align: center;
+  font-size: 100px;
+   font-family: "Impact", "Fantasy", "Fantasy";
+  color: grey;
+}
+.htwo {
+  text-align: center;
+  font-size: 50px;
+   font-family: "Impact", "Fantasy", "Fantasy";
+  color: black;
+   text-decoration-line: underline;
+  text-decoration-thickness: 5px;
+}
+.hthree {
+  text-align: center;
+  font-size: 40px;
+   font-family: "Impact", "Fantasy", "Fantasy";
+  color: black;
+   text-decoration-line: underline;
+  text-decoration-thickness: 5px;
+}
+.hthree2 {
+  text-align: center;
+  font-size: 30px;
+   font-family: "Impact", "Fantasy", "Fantasy";
+  color: blue;
+   text-decoration-line: underline;
+  text-decoration-thickness: 5px;
+}
+.paraone {
+  text-align: center;
+  font-size: 24px;
+  color: black;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+}
+.paraone2 {
+  text-align: center;
+  font-size: 24px;
+  color: grey;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+}
+.paratwo {
+  text-align: center;
+  font-size: 24px;
+  color: black;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+  padding: 30px;
+}
+.parathree {
+  text-align: center;
+  font-size: 34px;
+  color: #004200;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+   text-decoration-line: bold;
+  text-decoration-thickness: 5px;
+}
+.parafour {
+  text-align: center;
+  font-size: 24px;
+  color: blue;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+}
+.parafive {
+  text-align: center;
+  font-size: 24px;
+  color: black;
+  font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", "sans-serif";
+      padding: 30px;
+}
+.music {
+  text-align: center;
+  align-items: center;
+  margin-left: 25%;
+      background-color: rgb(59,173,202) ;
+}
+.row1 {
+      background-color: rgb(59,173,202) ;
+  border-style: inset;
+  border-color: #32545d;
+}
+.row2 {
+      background-color: rgb(54,92,119) ;
+ border: 50px;
+  border-style: inset;
+  border-color: #5993a1;
+}
+.row3 {
+      background-color: rgb(115,130,136) ;
+ border: 50px;
+  border-style: inset;
+  border-color: #077692;
+}
+.row4 {
+      background-color: rgb(115,130,136) ;
+ border: 50px;
+  border-style: inset;
+  border-color: #077692;
+}
+.row4two {
+      background-color: rgb(115,130,136) ;
+ border: 50px;
+  border-color: #077692;
+  border-style: solid;
+}
+.glasses1 {
+padding:4px;
+  align-items: center;
+margin: 10px auto 20px;
+    display: block;
+}
+.glasses2 {
+padding:4px;
+  align-items: center;
+margin: 10px auto 20px;
+    display: block;
+  border: solid;
+  border-width: 3px;
+  border-color: #0b009e;
+}
+.putpadding {
+    padding: 30px;
+}
+.grapone {
+  border: 5px  #077692;
+  border-style: none solid none solid;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;  
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(115,130,136);
+  color: white;
+  border: solid solid solid solid;
+  border-color: black;
+}
+ul  {
+  padding-left: 0;
+  align-items: center;
+  margin-left: 25%;
+}
+ul li {
+  align-items: center;
+   list-style-position: inside;
+  margin-left: 20%;
+  font-size: 20px;
+  color: black;
+  font-family: brush script mt, cursive;
+}
+.top1 {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(115,130,136);
+  color: white;
+  border: solid solid solid solid;
+  border-color: black;
+}
+.top2 {
+    text-align: center;
+  padding: 3px;
+  background-color:#0b009e;
+  color: white;
+  border: solid solid solid solid;
+  border-color: black;
+}
+.top3 {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(115,130,136);
+  color: white;
+  border: solid solid solid solid;
+  border-color: black;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
